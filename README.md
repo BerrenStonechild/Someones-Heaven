@@ -22,7 +22,7 @@ Programmer: Conor Lewis
 
 ## Project Goals:
 
-	For the development of this project our team as a whole hopes to achieve a result in accordance to the given time frame the results we hope to achieve at time of writing are as follows:
+For the development of this project our team as a whole hopes to achieve a result in accordance to the given time frame the results we hope to achieve at time of writing are as follows:
 
 ## Gameplay
 We hope to create a unique, interesting and fun take on the roguelike genre by taking familiar level structures and movement systems then pairing them with interesting puzzle mechanics to create something that is our own
