@@ -1,12 +1,14 @@
 # Project Specification
 
-Project title: “Someone’s Heaven”
+### Project title: “Someone’s Heaven”
 Team Name: Half Empty
 
-Project Overview:
+## Project Overview:
 “Someone’s Heaven” is a roguelike/dungeon crawler game where the player uses puzzle mechanics to traverse randomly generated levels. In this game you play as a incompetent dork who wrongly ends up in hell after dying. Now as this character you must traverse the pits of hell and make your way out to heaven. Our inspiration for this project are games like Hades and Binding of Issac but with its own set of rules and ‘flavor’. 
 
-Team Member Roles:
+<img width="1919" height="1039" alt="Screenshot 2026-01-11 010630" src="https://github.com/user-attachments/assets/25c37087-9693-402e-92eb-ba58132a8569" />
+
+### Team Member Roles:
 
 Team Half Empty is a student development team consisting of five members. We have 2 programmers, 3 designers and one of our designers is serving as project manager. Our team while led is being organized in a democratic fashion where the aspects of our design are discussed and agreed upon by the entire team. Our members are as follows:
 
